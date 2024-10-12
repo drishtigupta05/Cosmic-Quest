@@ -1,3 +1,172 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.querySelector('.galaxy-container');
+
+    // Create star twinkling effect
+    setInterval(() => {
+        const star = document.createElement('div');
+        star.classList.add('star');
+        star.style.left = Math.random() * 100 + 'vw';
+        star.style.top = Math.random() * 100 + 'vh';
+        container.appendChild(star);
+
+        setTimeout(() => {
+            star.remove();
+        }, 1000);
+    }, 300);
+});
+
+
+
+
+
+
+
+
 // References to DOM Elements
 const prevBtn = document.querySelector("#prev-btn");
 const nextBtn = document.querySelector("#next-btn");
