@@ -242,6 +242,7 @@ footer {
   }
   
   .timeline-content {
+    margin-left: 5px;
     padding: 20px;
     color: #fff;
     background-color: #0b0c1f;
